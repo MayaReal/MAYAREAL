@@ -16,8 +16,9 @@ body {
 }
 
 .property__img {
-  display: block;
   border: solid;
+  object-fit: contain;
+  width: 50%;
 }
 
 .ubication {
@@ -27,6 +28,14 @@ body {
   display: flex;
   justify-content: center;
 }
+
+.ubication__map {
+    flex-direction: column;
+    width: 50%;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+ }
 
 /*List a*/
 
