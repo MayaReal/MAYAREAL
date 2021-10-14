@@ -21,6 +21,10 @@ body {
   width: 50%;
 }
 
+.list {
+padding: 1rem;
+}
+
 .summary__answer {
   padding-right: 3rem;
 }
