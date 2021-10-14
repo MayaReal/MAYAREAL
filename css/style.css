@@ -20,6 +20,8 @@ body {
 }
 
 .ubication {
+  padding-left: 0rem;
+  padding-right: 0rem;
   padding-top: 5rem;
   padding-bottom: 2rem;
   display: flex;
