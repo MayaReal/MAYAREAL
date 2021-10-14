@@ -31,7 +31,7 @@ body {
 
 .ubication__map {
   flex-direction: column;
-  width: 50%;
+  width: 100%;
   display: flex;
   justify-content: left;
   align-items: left;
