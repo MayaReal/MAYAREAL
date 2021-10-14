@@ -21,6 +21,10 @@ body {
   width: 50%;
 }
 
+.summary__answer {
+  padding-right: 3rem;
+}
+
 .ubication {
   padding-top: 5rem;
   padding-bottom: 2rem;
