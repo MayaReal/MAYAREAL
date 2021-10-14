@@ -20,9 +20,11 @@ body {
 }
 
 .ubication {
-  padding: 3rem;
-  width: 50%;
-  object-fit: contain;
+  padding-top: 5rem;
+  padding-bottom: 2rem;
+  width: 400px;
+  display: flex;
+  justify-content: center;
 }
 
 /*List a*/
