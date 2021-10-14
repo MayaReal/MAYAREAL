@@ -24,18 +24,18 @@ body {
 .ubication {
   padding-top: 5rem;
   padding-bottom: 2rem;
-  width: 600px;
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 .ubication__map {
-    flex-direction: column;
-    width: 50%;
-    display: flex;
-    justify-content: left;
-    align-items: left;
- }
+  flex-direction: column;
+  width: 50%;
+  display: flex;
+  justify-content: left;
+  align-items: left;
+}
 
 /*List a*/
 
