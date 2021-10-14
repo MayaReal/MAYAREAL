@@ -24,6 +24,7 @@ body {
 .ubication {
   padding-top: 5rem;
   padding-bottom: 2rem;
+  width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -31,7 +32,6 @@ body {
 
 .ubication__map {
   flex-direction: column;
-  width: 100%;
   display: flex;
   justify-content: left;
   align-items: left;
